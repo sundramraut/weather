@@ -1,1 +1,3 @@
-# weather
+# weather web app
+build a responsive weather app using html,css,js and public api.
+it fetch data from already built websit3s and shows you the weather of any city you want...
